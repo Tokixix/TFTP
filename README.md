@@ -4,4 +4,3 @@ Implementation of Trivial File Transfer Protocol in Python, versions based on RF
 Docummentation:
 https://tools.ietf.org/html/rfc1350
 https://tools.ietf.org/html/rfc7440
-Enjoy :)
